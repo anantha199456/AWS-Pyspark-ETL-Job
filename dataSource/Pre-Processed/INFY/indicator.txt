@@ -1,0 +1,4 @@
+Indicator file from Vendor
+INFY.xls 647.5 KB
+COUNTER.json 4.0 B
+SUMMARY 648 KB
